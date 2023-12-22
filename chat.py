@@ -27,7 +27,7 @@ class QAChatbot:
             self.max_len_q = 14
             self.max_len_a = 39
             
-            self.ws = ws_zh = pickle.load(open("ws_zh.pkl", "rb"))
+            self.ws = ws_zh = pickle.load(open("ws dict/ws_zh.pkl", "rb"))
             self.PATH = "QA checkpoint/model-20 QA Chinese.pt"
             self.encode_input = self.encode_input_zh
         
@@ -39,7 +39,7 @@ class QAChatbot:
             self.max_len_q = 14
             self.max_len_a = 43
             
-            self.ws = ws_en = pickle.load(open("ws_en.pkl", "rb"))
+            self.ws = ws_en = pickle.load(open("ws dict/ws_en.pkl", "rb"))
             self.PATH = "QA checkpoint/model-20 QA English.pt"
             self.encode_input = self.encode_input_en
 
