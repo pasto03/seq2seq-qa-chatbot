@@ -1,0 +1,26 @@
+User: what is nlp
+Bot : Natural Language Processing ( NLP ) is a field that focuses on the study of how computers can understand and process human language .
+
+User: tools used in nlp
+Bot : In natural language processing , common tools include word to a field that specializes in enabling , language models , and process human language .
+
+User: sentiment analysis
+Bot : NLP stands for Natural Language Processing , which involves the study of how computers can understand and process human language .
+
+User: how word embedding workds
+Bot : NLP stands for Natural Language Processing , which involves to a vector representation in a high - dimensional space , ensuring that semantically similar words .
+
+User: models that can be used for text generation
+Bot : In NLP , common NLP , commonly used for text generation include Recurrent Neural Networks ( RNNs ) , Long Short - Term Memory Networks ( LSTMs ) , and Transformers .
+
+User: what is cross lingual processing
+Bot : NLP is applied in NLP refers to the task of different languages in NLP , including tasks such as machine translation , cross - lingual sentiment analysis , and cross - lingual information .
+
+User: pretrained model in nlp
+Bot : Natural Language Processing , NLP is a that predicts the probability of the next word given a context , used for understanding and generating natural language .
+
+User: famous pretrained model
+Bot : NLP stands for Natural Language Processing , which involves the study of how computers can understand and process human language .
+
+User: how are pre-trained models applied in nlp
+Bot : In NLP , pre - trained models such as BERT , GPT , and RoBERTa are widely used for various natural language processing tasks , achieving significant performance improvements .
